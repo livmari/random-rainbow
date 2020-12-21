@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/random-rainbow/static/css/main.ac337c52.chunk.css",
+    "main.js": "/random-rainbow/static/js/main.5931ee97.chunk.js",
+    "main.js.map": "/random-rainbow/static/js/main.5931ee97.chunk.js.map",
+    "runtime-main.js": "/random-rainbow/static/js/runtime-main.cb382352.js",
+    "runtime-main.js.map": "/random-rainbow/static/js/runtime-main.cb382352.js.map",
+    "static/js/2.9c786533.chunk.js": "/random-rainbow/static/js/2.9c786533.chunk.js",
+    "static/js/2.9c786533.chunk.js.map": "/random-rainbow/static/js/2.9c786533.chunk.js.map",
+    "static/js/3.722e497c.chunk.js": "/random-rainbow/static/js/3.722e497c.chunk.js",
+    "static/js/3.722e497c.chunk.js.map": "/random-rainbow/static/js/3.722e497c.chunk.js.map",
+    "index.html": "/random-rainbow/index.html",
+    "static/css/main.ac337c52.chunk.css.map": "/random-rainbow/static/css/main.ac337c52.chunk.css.map",
+    "static/js/2.9c786533.chunk.js.LICENSE.txt": "/random-rainbow/static/js/2.9c786533.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/random-rainbow/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb382352.js",
+    "static/js/2.9c786533.chunk.js",
+    "static/css/main.ac337c52.chunk.css",
+    "static/js/main.5931ee97.chunk.js"
+  ]
+}
