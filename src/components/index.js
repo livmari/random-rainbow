@@ -1,1 +1,1 @@
-export { default as RainbowContainer } from './RainbowContainer'
+export { default as RainbowContainer } from './RainbowContainer/RainbowContainer'
