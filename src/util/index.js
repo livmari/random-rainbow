@@ -1,0 +1,5 @@
+export { default as generateColorValue } from './generateColorValue'
+export { default as generateDegree } from './generateDegree'
+export { default as generateGradient } from './generateGradient'
+export { default as updateBackground } from './updateBackground'
+export { default as updateTextColor } from './updateTextColor'
